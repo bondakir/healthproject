@@ -1,0 +1,132 @@
+html {
+  font-family:questrial;
+}
+body {
+  margin:0px;
+  padding-top:0px;
+}
+.toppage {
+  background-image: url('https://images.unsplash.com/photo-1509388967014-f4d87be14eaf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b30ea5ac9316f5fa6aa98e93ad09e418&auto=format&fit=crop&w=934&q=80');
+  padding-bottom:25%;
+  padding-top:10px;
+  height:100%;
+}
+a {
+  color:black;
+  text-decoration:none;
+}
+a:hover {
+  color:gray;
+}
+.nav {
+  margin: 30px;
+  font-size:25px;
+}
+#whatisit {
+  text-align:right;
+}
+#sources {
+  text-align:right;
+}
+#title {
+  font-size:80px;
+  text-align:center;
+}
+#homepage {
+  padding-top:60px;
+  margin-bottom:0px;
+}
+#title {
+  margin-bottom:0px;
+}
+#tagline {
+  font-size:20px;
+  text-align:center;
+}
+.searchbox {
+  margin-top:30px;
+  width: 45%;
+  border: 3px solid #00B4CC;
+  padding: 10px;
+  height: 60px;
+  border-radius: 5px;
+  outline: none;
+  color: #000000;
+  font-family:questrial;
+  font-size:20px;
+}
+
+
+.firsttopic {
+  text-align:center;
+  color:#ffffff;
+  background-color:#00b4cc;
+  text-align: center;
+  padding: 40px 50px;
+}
+.insurancetitle {
+  font-size:50px;
+  padding-bottom:20px;
+}
+.insurancedescription {
+  line-height:1.5;
+  font-size:18px;
+}
+.secondtopic {
+  text-align:center;
+  padding: 40px 50px;
+}
+.backpaintitle {
+  color:#00b4cc;
+  font-size:50px;
+  padding-bottom:20px;
+}
+.backpaindescription {
+  line-height:1.5;
+  font-size:18px;
+  color:#00b4cc;
+}
+.vertical-center {
+  display: flex;
+  align-items: center;
+}
+.social {
+  text-align:center;
+}
+.location {
+  text-align:center;
+}
+.footer {
+  background-color:gray;
+  color:white;
+  padding:20px 0px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  color:white;
+}
+.fa:hover {
+  color:#a5a5a5;
+  text-decoration:none;
+}
+
+.sources-title {
+  text-align: center;
+  font-size: 80px;
+}
+.sources-toppage {
+  background-size: 75%;
+  background-image: url('https://images.unsplash.com/photo-1511406239133-2c1130a2d754?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=87122fc6e7fde24cc6fc019d6d1b91cd&auto=format&fit=crop&w=2700&q=80');
+  
+  padding-bottom:25%;
+  padding-top:10px;
+  height:100%;
+}
+
+
+
